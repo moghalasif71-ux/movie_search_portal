@@ -1,5 +1,5 @@
 // Get a free key from https://www.omdbapi.com/apikey.aspx and paste it here
-const API_KEY = "DEMO_API";
+const API_KEY = "79e864f1";
 const BASE_URL = "https://www.omdbapi.com/";
 const NO_POSTER = "https://placehold.co/300x450?text=No+Poster";
 
